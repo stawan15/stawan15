@@ -20,22 +20,22 @@
 - 🌱 Learning more about infrastructure security and container orchestration
 ---
 
-### 🧰 Tech Stack
+### 🧰 DevOps Stack
 
-**DevOps & Infrastructure**
+**Tools I use**
 
-<img src="https://skillicons.dev/icons?i=docker,terraform,git,azure,aws,linux,bash,nginx,go" />
+<img src="https://skillicons.dev/icons?i=docker,git,linux,bash,nginx" />
 
-**Deployment Tools**
+**CI/CD & Deployment**
 
 ![Kamal](https://img.shields.io/badge/Kamal-D64545?style=flat-square&logo=ruby&logoColor=white)
 ![Dokku](https://img.shields.io/badge/Dokku-1E293B?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 
-**Also Explored**
+**Currently Learning**
 
-<img src="https://skillicons.dev/icons?i=rust,tauri,angular,typescript,ruby,rails,postgres,python,swift" />
+<img src="https://skillicons.dev/icons?i=terraform,aws,azure,go,ruby,rails,postgres,typescript" />
 
 ---
 
