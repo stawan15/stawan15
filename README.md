@@ -18,13 +18,22 @@
 - 🎓 Studying **Computer Science** at Maejo University, Chiang Mai
 - 🛠️ Currently interning as a **DevOps Intern**, building CI/CD pipelines and managing cloud/on-prem infrastructure
 - 🌱 Learning more about infrastructure security and container orchestration
+
+```bash
+whoami
+# CS Student | DevOps Intern | Building deployment tools
+
+currently_learning --focus
+# infrastructure security, cloud platforms, and container orchestration
+```
+
 ---
 
 ### 🧰 DevOps Stack
 
 **Tools I use**
 
-<img src="https://skillicons.dev/icons?i=docker,git,linux,bash,nginx" />
+<img src="https://skillicons.dev/icons?i=docker,terraform,git,azure,linux,bash,nginx" />
 
 **CI/CD & Deployment**
 
@@ -35,7 +44,7 @@
 
 **Currently Learning**
 
-<img src="https://skillicons.dev/icons?i=terraform,aws,azure,go,ruby,rails,postgres,typescript" />
+<img src="https://skillicons.dev/icons?i=aws,go,ruby,rails,postgres,typescript" />
 
 ---
 
