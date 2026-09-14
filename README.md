@@ -24,7 +24,7 @@
 
 **DevOps & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=docker,terraform,git,azure,aws,linux,bash,nginx" />
+<img src="https://skillicons.dev/icons?i=docker,terraform,git,azure,aws,linux,bash,nginx,go" />
 
 **Deployment Tools**
 
@@ -35,7 +35,7 @@
 
 **Also Explored**
 
-<img src="https://skillicons.dev/icons?i=rust,tauri,angular,ruby,rails,postgres,python" />
+<img src="https://skillicons.dev/icons?i=rust,tauri,angular,typescript,ruby,rails,postgres,python,swift" />
 
 ---
 
@@ -49,8 +49,10 @@
 
 | Project | Description |
 |---|---|
-| 🕒 **Pastel** | Time-tracking dashboard — migrated deploys from Capistrano → Kamal, built CI/CD with Azure DevOps |
-| ⏳ **Sandclock** | Cross-platform desktop app — rewrote Electron → Tauri v2, automated multi-OS CD + S3 auto-updater |
+| 🚀 [**Kamal-TUI**](https://github.com/stawan15/Kamal-TUI) | Go terminal UI for Kamal deployments — secure secrets, live logs, and one-key deploy/rollback |
+| 🛡️ [**Download-scanner**](https://github.com/stawan15/Download-scanner) | Safe macOS TUI/CLI for organizing Downloads — duplicate detection, security checks, and undo support |
+| 📚 [**Docsies**](https://github.com/stawan15/Docsies) | Team documentation platform for DevOps runbooks with Markdown, visual editing, and authenticated PostgreSQL storage |
+| 🔗 [**Shorty-shawty**](https://github.com/stawan15/Shorty-shawty) | Rails 8 URL shortener with custom aliases, click analytics, QR codes, and token-authenticated REST API |
 
 ---
 
