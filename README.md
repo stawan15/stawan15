@@ -19,32 +19,35 @@
 - 🛠️ Currently interning as a **DevOps Intern**, building CI/CD pipelines and managing cloud/on-prem infrastructure
 - 🌱 Learning more about infrastructure security and container orchestration
 
-```bash
-whoami
-# CS Student | DevOps Intern | Building deployment tools
-
-currently_learning --focus
-# infrastructure security, cloud platforms, and container orchestration
-```
-
 ---
 
 ### 🧰 DevOps Stack
 
 **Tools I use**
 
-<img src="https://skillicons.dev/icons?i=docker,terraform,git,azure,linux,bash,nginx" />
+<a href="https://docs.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+<a href="https://developer.hashicorp.com/terraform/docs" title="Terraform"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" /></a>
+<a href="https://git-scm.com/doc" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+<a href="https://learn.microsoft.com/en-us/azure/" title="Microsoft Azure"><img src="https://skillicons.dev/icons?i=azure" alt="Microsoft Azure" /></a>
+<a href="https://docs.kernel.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+<a href="https://www.gnu.org/software/bash/manual/" title="Bash"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
+<a href="https://nginx.org/en/docs/" title="Nginx"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
 
 **CI/CD & Deployment**
 
-![Kamal](https://img.shields.io/badge/Kamal-D64545?style=flat-square&logo=ruby&logoColor=white)
-![Dokku](https://img.shields.io/badge/Dokku-1E293B?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+[![Kamal](https://img.shields.io/badge/Kamal-D64545?style=flat-square&logo=ruby&logoColor=white)](https://kamal-deploy.org/)
+[![Dokku](https://img.shields.io/badge/Dokku-1E293B?style=flat-square&logo=docker&logoColor=white)](https://dokku.com/docs/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
+[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)](https://learn.microsoft.com/en-us/azure/devops/)
 
 **Currently Learning**
 
-<img src="https://skillicons.dev/icons?i=aws,go,ruby,rails,postgres,typescript" />
+<a href="https://docs.aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
+<a href="https://go.dev/doc/" title="Go"><img src="https://skillicons.dev/icons?i=go" alt="Go" /></a>
+<a href="https://www.ruby-lang.org/en/documentation/" title="Ruby"><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" /></a>
+<a href="https://guides.rubyonrails.org/" title="Ruby on Rails"><img src="https://skillicons.dev/icons?i=rails" alt="Ruby on Rails" /></a>
+<a href="https://www.postgresql.org/docs/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+<a href="https://www.typescriptlang.org/docs/" title="TypeScript"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /></a>
 
 ---
 
