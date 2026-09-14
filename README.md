@@ -18,8 +18,6 @@
 - 🎓 Studying **Computer Science** at Maejo University, Chiang Mai
 - 🛠️ Currently interning as a **DevOps Intern**, building CI/CD pipelines and managing cloud/on-prem infrastructure
 - 🌱 Learning more about infrastructure security and container orchestration
-- 💬 Ask me about CI/CD, Docker, or why my Rust compile times are so long
-
 ---
 
 ### 🧰 Tech Stack
@@ -59,7 +57,5 @@
 <div align="center">
 
 *"It's Friday! Time to deploy."* 🚀
-
-<img src="https://komarev.com/ghpvc/?username=stawan15&color=orange&style=flat-square" />
 
 </div>
